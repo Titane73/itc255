@@ -25,7 +25,3 @@ class Checker():
     def __str__(self):
         return self.checker_grade
 
-
-
-
-# create a method for each field
